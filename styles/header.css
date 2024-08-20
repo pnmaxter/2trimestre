@@ -57,3 +57,11 @@
 .container__botao {
     display: none;
 }
+
+.container_titulo{
+    display: none;
+}
+
+.opcoes{
+    display: none;
+}
